@@ -1,7 +1,7 @@
 # RockPapperScissor
 Hello ,
 This is my FIRST Python GUI based application .
-It a very simple game of Rock Paper Scissor .
+It is a very simple game of Rock Paper Scissor .
 ![mainwindow](https://user-images.githubusercontent.com/108187933/177034652-7b2c7776-2946-4360-9925-8e7c09d67059.JPG)
 
 For creating GUI I have used PyQt along with Qt designer .Qt designer makes creating a page design and getting it's code very easy.
@@ -14,7 +14,7 @@ The menubar has Option tab. In Option there are 2 options Restart and Quit. Both
 Playing Instruction :
 - When .exe is launched a new starts.
 - The game has 3 rounds bydefault.
-- There  are 3 options to choose from . Alongside user Computer also chooses it's option.
+- There  are 3 options to choose from . Alongside User, Computer also chooses it's option.
 - Depending on selected options and real game rules ,either user get's one point or computer get's one point.
 - The points are displayed after each try.
 ![points](https://user-images.githubusercontent.com/108187933/177035112-8db8bf3e-b657-4880-a939-41fbcb654908.JPG)
