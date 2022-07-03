@@ -1,8 +1,8 @@
 # RockPapperScissor
-Hello ,
+Hello,
 This is my FIRST Python GUI based application .It is a very simple game of Rock Paper Scissor .
 
-Scroll down for instructions and go to master for exes.
+Scroll down for instructions and go to master branch for exes.
 
 ![mainwindow](https://user-images.githubusercontent.com/108187933/177034652-7b2c7776-2946-4360-9925-8e7c09d67059.JPG)
 
