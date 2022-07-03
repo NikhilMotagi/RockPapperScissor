@@ -17,6 +17,7 @@ Playing Instruction :
 - There  are 3 options to choose from . Alongside User, Computer also chooses it's option.
 - Depending on selected options and real game rules ,either user get's one point or computer get's one point.
 - The points are displayed after each try.
+
 ![points](https://user-images.githubusercontent.com/108187933/177035112-8db8bf3e-b657-4880-a939-41fbcb654908.JPG)
 - After 3 rounds or try's the blank space at the end show's you your result based on total point's.
 ![result](https://user-images.githubusercontent.com/108187933/177035170-9abbb62c-3c8a-4268-8940-ba3f0225ca4b.JPG)
